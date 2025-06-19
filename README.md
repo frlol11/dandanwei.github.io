@@ -4,6 +4,6 @@
 
 Welcome to my homepage!
 
-- 📧 Email: dandan.wei@example.com
+- 📧 Email: dandanwei771@gmail.com
 - 🏫 Affiliation: Beijing Technology and Business University, School of Computer Science and Artificial Intelligence
 - 📝 This page is used for OpenReview registration.
